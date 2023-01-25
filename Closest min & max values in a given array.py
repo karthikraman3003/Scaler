@@ -1,3 +1,5 @@
+## Unoptimised version T.C  0(N^2), S.C O(N)
+
 import sys
 arr=[1,2,3,1,3,4,6,4,6,3]
 minimum=sys.maxsize
