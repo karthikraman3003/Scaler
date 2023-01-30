@@ -1,4 +1,5 @@
 ## Example: the longest common prefix of "abcdefgh" and "abcefgh" is "abc".
+## I/p A = ["abcdefgh", "aefghijk", "abcefgh"] O/p "a"
 A = ["abab", "ab", "abcd"]
 
 prefix=A[0]
