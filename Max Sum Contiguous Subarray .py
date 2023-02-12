@@ -1,3 +1,5 @@
+# Find the contiguous non-empty subarray within an array, A of length N, with the largest sum.
+
 import sys
 A = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
 
