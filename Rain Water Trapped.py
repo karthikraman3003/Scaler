@@ -50,3 +50,5 @@ for i in range(1,n-1):
     if water>0:
         ans+=water
 print(ans)
+
+# stop
