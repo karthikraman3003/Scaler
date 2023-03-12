@@ -23,6 +23,7 @@ def merge(arr, start, middle, end):
         sorted_arr[p3]=arr[p2]
         p2+=1
         p3+=1
+    # Returning the sorted data
     arr[start:end + 1] = sorted_arr
 
 
