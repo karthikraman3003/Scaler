@@ -28,6 +28,8 @@
 # 2:
 #
 # [-1, -1]
+
+#  Binary search
 arr=[5, 17, 100, 111]
 n=len(arr)-1
 ans=-1
