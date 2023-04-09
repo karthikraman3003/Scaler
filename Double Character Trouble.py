@@ -1,4 +1,4 @@
-A = "abba"
+A = "abccbaa"
 
 stack = []
 for c in A:
